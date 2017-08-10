@@ -1,4 +1,4 @@
 # HistoricalForexAnalysis
 
 
-<img src="https://github.com/mincongzhang/HistoricalForexAnalysis/raw/master/20160101.png" width="500"/>  
+<img src="https://github.com/mincongzhang/HistoricalForexAnalysis/raw/master/20160101.png"/>  
