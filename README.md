@@ -1,7 +1,6 @@
 # HistoricalForexAnalysis
 
 We are moving to https://github.com/FXclub,   
-and here is a web demo:https://fxclub.github.io/deployment/  
 the website with full data: https://fxclub.github.io
 
 
